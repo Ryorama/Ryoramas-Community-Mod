@@ -1,0 +1,11 @@
+{
+  "group": "ryoramas_community_mod",
+  "type": "minecraft:smelting",
+  "experience": 1.4,
+  "ingredient": {
+    "item": "ryoramas_community_mod:rubyore"
+  },
+  "result": {
+    "item": "ryoramas_community_mod:rubygem"
+  }
+}

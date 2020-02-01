@@ -1,0 +1,19 @@
+{
+  "group": "ryoramas_community_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:water_bucket"
+    },
+    "1": {
+      "item": "ryoramas_community_mod:pan"
+    }
+  },
+  "result": {
+    "item": "ryoramas_community_mod:panfilled",
+    "count": 1
+  }
+}

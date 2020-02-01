@@ -1,4 +1,19 @@
 {
   "itemGroup.tabryorama": "Ryorama",
-  "item.ryoramas_community_mod.ruby": "Ruby"
+  "item.ryoramas_community_mod.rubyarmorlegs": "Ruby Leggings",
+  "item.ryoramas_community_mod.pan": "Pan",
+  "item.ryoramas_community_mod.rubyarmorbody": "Ruby Chestplate",
+  "item.ryoramas_community_mod.sunfragment": "Sunfragment",
+  "item.ryoramas_community_mod.rubysword": "Ruby Sword",
+  "item.ryoramas_community_mod.rubyarmorhelmet": "Ruby Helmet",
+  "block.ryoramas_community_mod.rubyore": "Ruby Ore",
+  "item.ryoramas_community_mod.rubypickaxe": "Ruby Pickaxe",
+  "item.ryoramas_community_mod.rubyhoe": "Ruby Hoe",
+  "item.ryoramas_community_mod.panfilled": "Pan With Water",
+  "item.ryoramas_community_mod.rubyshovel": "Ruby Shovel",
+  "block.ryoramas_community_mod.rubyoreblock": "Block of Ruby",
+  "item.ryoramas_community_mod.rubygem": "Ruby",
+  "item.ryoramas_community_mod.rubyaxe": "Ruby Axe",
+  "block.ryoramas_community_mod.pannedore": "Panned Ore",
+  "item.ryoramas_community_mod.rubyarmorboots": "Ruby Boots"
 }

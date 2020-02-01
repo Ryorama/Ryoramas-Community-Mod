@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:RubyArmor.boots"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RubyGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RubyGem"
+      },
+      {
+        "value": "CUSTOM:RubyGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RubyGem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "rubyarmorbootsrecipe",
+    "namespace": "mod"
+  }
+}

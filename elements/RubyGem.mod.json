@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "ruby",
+    "texture": "ruby1",
     "customModelName": "Normal",
     "name": "Ruby",
     "creativeTab": {
-      "value": "CUSTOM:Ryorama"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,

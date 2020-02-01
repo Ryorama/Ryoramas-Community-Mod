@@ -7,12 +7,12 @@ import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
 @Elementsryoramas_community_mod.ModElement.Tag
-public class MCreatorRuby extends Elementsryoramas_community_mod.ModElement {
-	@ObjectHolder("ryoramas_community_mod:ruby")
+public class MCreatorSunfragment extends Elementsryoramas_community_mod.ModElement {
+	@ObjectHolder("ryoramas_community_mod:sunfragment")
 	public static final Item block = null;
 
-	public MCreatorRuby(Elementsryoramas_community_mod instance) {
-		super(instance, 1);
+	public MCreatorSunfragment(Elementsryoramas_community_mod instance) {
+		super(instance, 23);
 	}
 
 	@Override
@@ -22,8 +22,8 @@ public class MCreatorRuby extends Elementsryoramas_community_mod.ModElement {
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(MCreatorRyorama.tab).maxStackSize(64));
-			setRegistryName("ruby");
+			super(new Item.Properties().group(MCreatorRyorama.tab).maxStackSize(4));
+			setRegistryName("sunfragment");
 		}
 
 		@Override

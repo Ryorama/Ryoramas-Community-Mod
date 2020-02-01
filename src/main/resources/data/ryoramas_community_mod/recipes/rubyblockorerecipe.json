@@ -1,0 +1,13 @@
+{
+  "group": "ryoramas_community_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ryoramas_community_mod:rubyoreblock"
+    }
+  ],
+  "result": {
+    "item": "ryoramas_community_mod:rubygem",
+    "count": 9
+  }
+}

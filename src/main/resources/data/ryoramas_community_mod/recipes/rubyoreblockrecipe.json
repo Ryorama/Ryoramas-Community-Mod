@@ -1,0 +1,42 @@
+{
+  "group": "ryoramas_community_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "1": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "2": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "3": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "4": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "5": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "6": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "7": {
+      "item": "ryoramas_community_mod:rubygem"
+    },
+    "8": {
+      "item": "ryoramas_community_mod:rubygem"
+    }
+  },
+  "result": {
+    "item": "ryoramas_community_mod:rubyoreblock",
+    "count": 1
+  }
+}

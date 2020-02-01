@@ -17,6 +17,7 @@ import java.util.function.Supplier;
 public class ryoramas_community_modVariables {
 	public static class WorldVariables extends WorldSavedData {
 		public static final String DATA_NAME = "ryoramas_community_mod_worldvars";
+		public boolean SOLCompleated = false;
 
 		public WorldVariables() {
 			super(DATA_NAME);
@@ -28,10 +29,12 @@ public class ryoramas_community_modVariables {
 
 		@Override
 		public void read(CompoundNBT nbt) {
+			SOLCompleated = nbt.getBoolean("SOLCompleated");
 		}
 
 		@Override
 		public CompoundNBT write(CompoundNBT nbt) {
+			nbt.putBoolean("SOLCompleated", SOLCompleated);
 			return nbt;
 		}
 

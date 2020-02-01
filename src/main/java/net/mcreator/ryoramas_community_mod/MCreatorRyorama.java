@@ -3,7 +3,6 @@ package net.mcreator.ryoramas_community_mod;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
-import net.minecraft.item.Items;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
@@ -19,7 +18,7 @@ public class MCreatorRyorama extends Elementsryoramas_community_mod.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(Items.DIAMOND, (int) (1));
+				return new ItemStack(MCreatorRubyGem.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)

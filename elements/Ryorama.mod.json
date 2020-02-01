@@ -4,7 +4,7 @@
   "definition": {
     "name": "Ryorama",
     "icon": {
-      "value": "Items.DIAMOND"
+      "value": "CUSTOM:RubyGem"
     },
     "showSearch": true
   }

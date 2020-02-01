@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ryoramas_community_mod:blocks/ruby_ore_block",
+    "particle": "ryoramas_community_mod:blocks/ruby_ore_block"
+  }
+}

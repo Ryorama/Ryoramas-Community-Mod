@@ -1,0 +1,38 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 400,
+    "height": 400,
+    "renderBgLayer": true,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Choose a story line(if not, press esc)",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Choose a story line(if not, press esc)",
+          "x": 236,
+          "y": 47
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Steelers Of Light",
+          "width": 340,
+          "height": 40,
+          "name": "Steelers Of Light",
+          "x": 253,
+          "y": 113
+        }
+      }
+    ],
+    "inventories": []
+  }
+}
